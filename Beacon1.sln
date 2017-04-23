@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{44E9AC56-50CD-A95C-86D8-D98BBD5619CB}") = "Beacon1", "Assembly-CSharp.csproj", "{DB6B2589-7431-8144-009B-60637457921F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6B2589-7431-8144-009B-60637457921F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6B2589-7431-8144-009B-60637457921F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6B2589-7431-8144-009B-60637457921F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6B2589-7431-8144-009B-60637457921F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
